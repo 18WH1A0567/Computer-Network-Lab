@@ -56,8 +56,6 @@ int main(){
                 printf("%c", rem[i]);
 
         printf("\n");
-
-
         return 0;
 }
 
