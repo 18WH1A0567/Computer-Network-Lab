@@ -21,8 +21,9 @@ int main(){
                         printf("%d ", fr[i]);
         }
 
-        if(f % w != 0)
+        if(f % w != 0){
                 printf("\nAcknowledgment received.\n");
+        }
 
         return 0;
 }
